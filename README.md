@@ -8,3 +8,7 @@
 
 因为都是用的langchain和调用api，把streamlit啥的装好就行了，就不写requirements.txt，我本地的pyton版本是3.10.8
 
+
+![image](https://github.com/user-attachments/assets/12393bea-8009-4fb0-ac0f-8fcea3d29e2e)
+
+
